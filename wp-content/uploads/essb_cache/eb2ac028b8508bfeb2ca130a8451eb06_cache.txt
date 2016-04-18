@@ -1,0 +1,6 @@
+<meta property="og:title" content="Jóvenes Talentos &#8211; Cuarteto Zanolli" />
+<meta property="og:description" content="Jóvenes Talentos Cuarteto Zanolli:Frangel López, violín; Francisco Ageo, violín; Henry Arévalo, viola; Manuel A. Garnica, violonchelo Cuarteto para cuerdas no. 23 de Mozart, Cuarteto para cuerdas no. 1 de Gutiérrez Heras, Cuarteto para cuerdas no. 2 de Mendelssohn y Cuarteto para cuerdas no. 2&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/jovenes-talentos-cuarteto-zanolli/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-06-24T16:17:33+00:00" />

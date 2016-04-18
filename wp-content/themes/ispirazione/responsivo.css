@@ -1,0 +1,70 @@
+/*
+Author: DAR - Lab Citrico
+*/
+
+
+
+@media screen and (max-width: 800px) and (orientation: landscape), screen and (max-height: 300px) {
+/**
+* Remove all paddings around the image on small screen
+*/
+  .mfp-img-mobile .mfp-image-holder { padding-left: 0; padding-right: 0; } .mfp-img-mobile img.mfp-img { padding: 0; } .mfp-img-mobile .mfp-figure:after { top: 0; bottom: 0; } .mfp-img-mobile .mfp-figure small { display: inline; margin-left: 5px; } .mfp-img-mobile .mfp-bottom-bar { background: rgba(0, 0, 0, 0.6); bottom: 0; margin: 0; top: auto; padding: 3px 5px; position: fixed; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; } .mfp-img-mobile .mfp-bottom-bar:empty { padding: 0; } .mfp-img-mobile .mfp-counter { right: 5px; top: 3px; } .mfp-img-mobile .mfp-close { top: 0; right: 0; width: 35px; height: 35px; line-height: 35px; background: rgba(0, 0, 0, 0.6); position: fixed; text-align: center; padding: 0; }
+ }
+
+@media all and (max-width: 900px) {
+  .mfp-arrow { -webkit-transform: scale(0.75); transform: scale(0.75); } .mfp-arrow-left { -webkit-transform-origin: 0; transform-origin: 0; } .mfp-arrow-right { -webkit-transform-origin: 100%; transform-origin: 100%; } .mfp-container { padding-left: 6px; padding-right: 6px; }
+}
+
+
+
+@media screen and (max-width: 850px){
+    
+#menunav li .menu-expand:first-of-type { visibility: visible; }
+.BoletinB1, .BoletinB2 { display: block; width: 100%; clear: both; position: relative; }
+.siteinfo { display: block; }
+.blockWF01, .blockWF02, .blockWF03, .blockWF04, .blockWF05, .blockWF06 { width: auto; }
+
+
+} 
+    
+@media screen and (max-width: 768px){
+
+.wrap_sociales_flotante { position: relative; }
+.sociales_fb, .sociales_tw, .sociales_yb, .sociales_ml { margin: 0px 0px 12px; display: inline-block; float: left; width: 25%; }
+.sliderInicio .sp-thumbnail-container { width: 30% !important; border-right: 0px solid #191919; }
+article#wrap-textos, aside { float: none; width: 90%; margin: 2% auto; }
+.eventon_daily_list { margin: 0px auto !important; }
+#logo, .logo-2 { width: 100%; display: block; position: relative; float: none; min-height: 53px; }
+#search { display:none;}
+.BoletinB1, .BoletinB2 { display: block; width: 100%; clear: both; position: relative; padding: 0px; }
+#gform_1 .gform_wrapper .gform_footer.right_label, .gform_wrapper .gform_footer.left_label { margin: 0px 0px 0px 0px !important; }
+#evcal_head { display: block; position: relative; width: 150px; clear: both; margin: 0 auto 35px; }
+.eventon_daily_list { display: block; width: 100%; }
+.eventon_daily_list { display: block; width: 80%; margin: 0 auto; }
+.eventosslider #evcal_head { display: table; width: auto; margin: 0 auto; }
+.eventosslider #evcal_prev { position: relative !important; margin: auto; transform: none; top: auto; left: auto; }
+.eventosslider #evcal_next { position: relative !important; margin: auto; bottom: auto; left: auto; transform: none; }
+.srp-post-content-container { margin: 0 auto !important; width: 60%; }
+.sp-buttons { display: none; }
+.dirGral {float: none;}
+.txtpie01, .txtpie02 { float: none;}
+
+}
+
+
+
+
+@media screen and (max-width: 480px){
+
+.logotxt { margin: 0px auto; right: auto; position:relative; }
+.logomsc { margin: 0 auto; right: 0px; position:relative; }
+.new-royalslider-2 .rsThumbsHor { height: 100%;}
+.rsThumbsContainer { transition-property: -moz-transform; width: 100%; height: auto !important; }
+.new-royalslider-2 .rsThumb { width: 100%; height: auto; }
+.BoletinB1, .BoletinB2 { display: block; width: 100%; clear: both; position: relative; padding: 0px; }
+.evo_metarow_locImg { width: 100%  !important; float: none; }
+#evcal_list .eventon_list_event .event_description .evcal_gmaps { width: 100% !important; }
+.contdestreaming { height: 240px; }
+.width50 { display: block; width: 100%;}
+
+}

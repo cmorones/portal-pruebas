@@ -1,0 +1,6 @@
+<meta property="og:title" content="El Niño y la Música &#8211; De osos, música y gigantes" />
+<meta property="og:description" content="El Niño y la MúsicaDe osos, música y gigantes Mario Iván Martínez, narrador; Alberto Cruzprieto, piano El gigante egoísta de Oscar Wilde con selecciones de Piezas líricas para piano de Grieg y El primer concierto del osito Paddington, historia de Michael Bond con música de Herbert Chappell &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/el-nino-y-la-musica-de-osos-musica-y-gigantes/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-27T19:54:57+00:00" />

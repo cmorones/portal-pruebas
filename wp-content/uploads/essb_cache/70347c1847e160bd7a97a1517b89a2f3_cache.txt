@@ -1,0 +1,8 @@
+<meta property="og:title" content="El Cuarteto Redes en la Sala Carlos Chávez" />
+<meta property="og:description" content="&nbsp; Domingo 28 de junio de 2015 La Dirección General de Música de la UNAM, en el marco del ciclo de Música de Cámara, presentará al Cuarteto Redes, quienes interpretarán Impresiones de la puna de Ginastera, Conversaciones para cuarteto de cuerdas de J. Córdoba, Quinteto para piccolo y cuer&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/el-cuarteto-redes-en-la-sala-carlos-chavez/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-05-16T14:07:49+00:00" />
+<meta property="article:modified_time" content="2015-06-16T14:33:17+00:00" />
+<meta property="og:updated_time" content="2015-06-16T14:33:17+00:00" />

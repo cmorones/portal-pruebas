@@ -1,0 +1,6 @@
+<meta property="og:title" content="OFUNAM Segunda Temporada 2016. Cartelera" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/mural/ofunam-segunda-temporada-2016-cartelera/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-03-14T12:13:27+00:00" />

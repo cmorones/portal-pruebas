@@ -1,0 +1,6 @@
+<meta property="og:title" content="Audiciones Staccato Coro Universitario Estudiantil" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/audiciones-staccato-coro-universitario-estudiantil/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-01-26T16:46:03+00:00" />

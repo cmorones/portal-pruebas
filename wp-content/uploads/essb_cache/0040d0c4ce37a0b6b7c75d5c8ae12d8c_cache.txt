@@ -1,0 +1,8 @@
+<meta property="og:title" content="Orquesta Sinfónica Estanislao Mejía de la Facultad de Música de la UNAM" />
+<meta property="og:description" content="Presencia de la Facultad de Música de la UNAMOrquesta Sinfónica Estanislao Mejía de la Facultad de Música de la UNAM Sergio Cárdenas, director artístico; David Eduardo Rocha, director huésped; Dhyana Arom, soprano; Zayra Ruiz, mezzosoprano; Alan Pingarrón, tenor; Marcos Herrera, bajo; Coro S&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/orquesta-sinfonica-estanislao-mejia-de-la-facultad-de-musica-de-la-unam-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-09-21T22:46:02+00:00" />
+<meta property="article:modified_time" content="2015-09-24T12:43:54+00:00" />
+<meta property="og:updated_time" content="2015-09-24T12:43:54+00:00" />

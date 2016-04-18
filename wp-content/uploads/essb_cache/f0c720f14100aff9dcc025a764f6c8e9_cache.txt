@@ -1,0 +1,6 @@
+<meta property="og:title" content="MÚSICA DE CÁMARA" />
+<meta property="og:description" content="&nbsp; Sábado 6 de febrero / 18:00 horas Sala Carlos Chávez La Dirección de Música de la UNAM organiza el concierto de Música de Cámara con el clarinetista Diego Cajas, el flautista Aníbal Robles y el pianista Carlos Adriel Salmerón, el próximo 6 de febrero en la Sala Carlos Chávez. El pro&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-de-camara/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-02-02T12:18:05+00:00" />

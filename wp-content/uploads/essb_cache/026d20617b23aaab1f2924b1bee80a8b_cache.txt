@@ -1,0 +1,8 @@
+<meta property="og:title" content="Carmina Burana con la OFUNAM" />
+<meta property="og:description" content="&nbsp; Sábado 20 y domingo 21 de junio de 2015 Sala Nezahualcóyotl del Centro Cultural Universitario La Orquesta Filarmónica de la UNAM realizará un concierto para la procuración de fondos con motivo de su próxima gira por Reino Unido. Con tres cantantes y dos coros nacionales, bajo la batuta &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/carmina-burana-con-la-ofunam/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-05-10T14:21:08+00:00" />
+<meta property="article:modified_time" content="2015-06-16T14:21:54+00:00" />
+<meta property="og:updated_time" content="2015-06-16T14:21:54+00:00" />

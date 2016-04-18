@@ -1,0 +1,6 @@
+<meta property="og:title" content="Recital de violín, corno y piano en la Sala Carlos Chávez" />
+<meta property="og:description" content="&nbsp; Domingo 09 de agosto de 2015 En el contexto del ciclo de Música de Cámara que organiza la Dirección General de Música de la UNAM, se interpretará el Trío op. 40 de Brahms, presentado por Myles McKeown en el violín, Gerardo Díaz en el corno y Leonora Marchisio en el piano. El recital s&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/recital-de-violin-corno-y-piano-en-la-sala-carlos-chavez/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-08-03T21:55:40+00:00" />

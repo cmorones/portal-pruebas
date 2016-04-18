@@ -1,0 +1,8 @@
+<meta property="og:title" content="OJUEM &#8211; Cuarto Concierto de Invierno con el flautista Massimo Mercelli" />
+<meta property="og:description" content="&nbsp; Domingo 28 de febrero / 18:00 horas Sala Nezahualcóyotl La Orquesta Juvenil Universitaria Eduardo Mata de la UNAM llevará a cabo el cuarto de sus Conciertos de Invierno bajo la batuta del director artístico Gustavo Rivero Weber y la participación solista de Massimo Mercelli en la flauta. &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/ojuem-cuarto-concierto-de-invierno-con-el-flautista-massimo-mercelli/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-02-22T12:54:45+00:00" />
+<meta property="article:modified_time" content="2016-02-24T15:20:52+00:00" />
+<meta property="og:updated_time" content="2016-02-24T15:20:52+00:00" />

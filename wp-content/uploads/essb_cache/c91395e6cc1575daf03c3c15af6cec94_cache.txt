@@ -1,0 +1,6 @@
+<meta property="og:title" content="Brodsky Quartet" />
+<meta property="og:description" content="Con una carrera sólida que incluye más de 3000 conciertos y 60 grabaciones, el cuarteto Brodsky detenta un repertorio con las principales obras para cuarteto de cuerda, desde el clasicismo hasta la actualidad. El conjunto se fundó en 1972 y tomó el nombre del reconocido violinista ruso Ado&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/blog-musica/brodsky-quartet/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-06-17T12:56:12+00:00" />

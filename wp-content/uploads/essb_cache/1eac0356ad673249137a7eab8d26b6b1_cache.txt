@@ -1,0 +1,8 @@
+<meta property="og:title" content="Sinfonía no. 3 de Brahms con la OJUEM" />
+<meta property="og:description" content="&nbsp; Domingo 24 de mayo de 2015 / 18:00 horas / Sala Nezahualcóyotl Bajo la batuta del director huésped Iván López Reynoso, la Orquesta Juvenil Universitaria Eduardo Mata de la UNAM interpretará Obertura de Semiramide de Rossini, Concierto para fagot de Weber y Sinfonía no. 3 de Brahms. La o&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/sinfonia-no-3-de-brahms-con-la-ojuem/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-05-07T11:59:33+00:00" />
+<meta property="article:modified_time" content="2015-05-08T17:11:40+00:00" />
+<meta property="og:updated_time" content="2015-05-08T17:11:40+00:00" />

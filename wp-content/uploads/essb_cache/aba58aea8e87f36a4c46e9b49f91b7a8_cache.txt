@@ -1,0 +1,11 @@
+<meta property="og:title" content="Visita nuestro Blog" />
+<meta property="og:description" content="Vivamus suscipit tortor eget felis porttitor volutpat. Cras ultricies ligula sed magna dictum porta. Donec rutrum congue leo eget malesuada. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Proin eget tortor risus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tel&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/visita-nuestro-blog/" />
+<meta property="og:image" content="http://musica.unam.mx/wp-content/uploads/2015/01/Blog.jpg" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:tag" content="v" />
+<meta property="article:section" content="Blog" />
+<meta property="article:published_time" content="2015-01-29T09:46:03+00:00" />
+<meta property="article:modified_time" content="2015-04-20T21:12:20+00:00" />
+<meta property="og:updated_time" content="2015-04-20T21:12:20+00:00" />

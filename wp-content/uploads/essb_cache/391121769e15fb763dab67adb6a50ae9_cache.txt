@@ -1,0 +1,8 @@
+<meta property="og:title" content="Descuentos y promociones" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/taquillas/descuentos-y-promociones/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-01-28T16:05:55+00:00" />
+<meta property="article:modified_time" content="2015-05-06T17:26:35+00:00" />
+<meta property="og:updated_time" content="2015-05-06T17:26:35+00:00" />

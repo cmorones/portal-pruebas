@@ -1,0 +1,6 @@
+<meta property="og:title" content="Homenaje a Dave Brubeck y Claude Bolling" />
+<meta property="og:description" content="Concierto¡Bravo Brubeck! ¡Bravo Bolling!Homenaje a Dave Brubeck y Claude Bolling Elena Durán, flautaTrío Amistad: Carlos Adriel Salmerón, piano; David Rosas, bajo; Salvador Merchand, batería Selecciones de las Suites para flauta y trío de jazz no. 1 y no. 2 de C. Bolling, Take Five de P. Desm&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/homenaje-a-dave-brubeck-y-claude-bolling/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-01-19T19:06:36+00:00" />

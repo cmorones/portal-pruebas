@@ -1,0 +1,8 @@
+<meta property="og:title" content="Primer Festival Universitario de Piccolo" />
+<meta property="og:description" content="&nbsp; Del 21 al 27 de junio con la participación de reconocidos solistas El concierto inaugural se realizará en el Anfiteatro Simón Bolívar y los demás, en la sala Xochipilli de la Facultad de Música de la UNAM y la Casa de Francia El Primer Festival Universitario de Piccolo se llevará a cab&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/primer-festival-universitario-de-piccolo/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-05-13T13:12:58+00:00" />
+<meta property="article:modified_time" content="2015-06-16T14:35:27+00:00" />
+<meta property="og:updated_time" content="2015-06-16T14:35:27+00:00" />

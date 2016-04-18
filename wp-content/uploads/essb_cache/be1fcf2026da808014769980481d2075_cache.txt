@@ -1,0 +1,6 @@
+<meta property="og:title" content="Concierto &#8211; Música de la India" />
+<meta property="og:description" content="Concierto Hollving Argáez, sitar; Rocío Orozco, violonchelo barroco; Francisco Bringas, tabla Música de la India Anfiteatro Simón Bolívar 12:00 horas $50 Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto-musica-de-la-india/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-07-29T19:50:39+00:00" />

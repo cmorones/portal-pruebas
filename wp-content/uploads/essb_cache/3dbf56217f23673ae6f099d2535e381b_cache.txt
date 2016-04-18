@@ -1,0 +1,6 @@
+<meta property="og:title" content="LA OFUNAM CON EL TENOR JAVIER CAMARENA" />
+<meta property="og:description" content="  Programa Fuera de Temporada Sala Nezahualcóyotl / 6 y 7 de febrero La Orquesta Filarmónica de la UNAM llevará a cabo un concierto Fuera de Temporada bajo la batuta del director huésped Iván López Reynoso y contará con la participación de la soprano Gabriela Herrera; la mezzosoprano Guadal&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/la-ofunam-con-el-tenor-javier-camarena/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-02-02T12:28:58+00:00" />

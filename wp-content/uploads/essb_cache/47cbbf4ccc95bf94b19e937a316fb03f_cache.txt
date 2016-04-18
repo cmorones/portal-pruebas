@@ -1,0 +1,8 @@
+<meta property="og:title" content="Abonos y boletos" />
+<meta property="og:description" content="OFUNAM Segunda Temporada 2016Conciertos sábados y domingosDel sábado 02 de abril al domingo 26 de junio de 2016.   AbonosVálido para diez conciertos(Sólo sábado o domingo) Primer piso                     $ 2,160Orquesta y Coro             $ 1,440Segundo piso         �&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/ofunam-2/abonos-y-boletos/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-01-28T16:22:39+00:00" />
+<meta property="article:modified_time" content="2016-03-18T13:29:38+00:00" />
+<meta property="og:updated_time" content="2016-03-18T13:29:38+00:00" />

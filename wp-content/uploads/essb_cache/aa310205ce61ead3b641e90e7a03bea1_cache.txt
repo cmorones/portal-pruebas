@@ -1,0 +1,6 @@
+<meta property="og:title" content="OFUNAM &#8211; Octavo concierto con Leon Botstein y Erika Dobosiewicz" />
+<meta property="og:description" content="&nbsp; 21 y 22 de noviembre / Sala Nezahualcóyotl Ensayo abierto sábado 21 / 10:00 horas La Orquesta Filarmónica de la UNAM llevará a cabo el octavo programa de la temporada bajo la batuta del director huésped Leon Botstein y la violinista Erika Dobosiewicz, el próximo sábado 21 y domingo 22 &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/ofunam-octavo-concierto-con-leon-botstein-y-erika-dobosiewicz/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-11-18T00:09:18+00:00" />

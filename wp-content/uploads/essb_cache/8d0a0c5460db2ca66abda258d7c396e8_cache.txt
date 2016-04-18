@@ -1,0 +1,8 @@
+<meta property="og:title" content="Coro Universitario Estudiantil Staccato" />
+<meta property="og:description" content="Programa Coral Universitario Coro Universitario Estudiantil StaccatoMarco A. Ugalde, director Sala Carlos Chávez 18:00 horas $50 Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/coro-universitario-estudiantil-stacatto/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-12-22T23:23:07+00:00" />
+<meta property="article:modified_time" content="2016-01-06T23:34:49+00:00" />
+<meta property="og:updated_time" content="2016-01-06T23:34:49+00:00" />

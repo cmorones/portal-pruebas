@@ -1,0 +1,8 @@
+<meta property="og:title" content="Concierto" />
+<meta property="og:description" content="Concierto XIX Encuentro Internacional – XV Iberoamericano de Mujeres en el Arte Voces visionarias. La educación y el arte de las mujeres como motores de cambio y transformación social Gabriela Rivera Loza, piano; Guadalupe Jiménez, soprano Selecciones de Cinco estudios para piano y Once tientos&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-03-10T19:32:53+00:00" />
+<meta property="article:modified_time" content="2015-03-31T17:06:34+00:00" />
+<meta property="og:updated_time" content="2015-03-31T17:06:34+00:00" />

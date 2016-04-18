@@ -1,0 +1,6 @@
+<meta property="og:title" content="4a Aumentada" />
+<meta property="og:description" content="Concierto4a Aumentada Centro Cultural Tlatelolco/Salón Juárez 19:00 horas $60 Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/4a-aumentada/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-06-02T11:56:30+00:00" />

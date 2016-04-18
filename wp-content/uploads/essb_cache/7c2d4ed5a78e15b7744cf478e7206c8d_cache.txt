@@ -1,0 +1,6 @@
+<meta property="og:title" content="CONCIERTO &#8211; Programa Coral Universitario" />
+<meta property="og:description" content="&nbsp; Sábado 07 de noviembre / 12:00 horas Anfiteatro Simón Bolívar La Dirección de Música de la UNAM organiza la presentación del Programa Coral Universitario, el próximo sábado 7 de noviembre en el Anfiteatro Simón Bolívar. Se presentarán los coros de la FES Aragón, Acatlán y Zaragoz&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/concierto-programa-coral-universitario-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-11-03T10:31:12+00:00" />

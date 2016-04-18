@@ -1,0 +1,8 @@
+<meta property="og:title" content="Obras de Beethoven, Frühling y Rota con el Trío Arion" />
+<meta property="og:description" content="  Viernes 07 de agosto de 2015 / Sala Carlos Chávez Dentro del ciclo de Música de Cámara, organizado por la Dirección General de Música de la UNAM, el Trío Arion llevará a cabo un recital donde interpretará Trío op. 11 de Beethoven, Trío op. 40 de C. Frühling y Trío para clarinete, viol&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/obras-de-beethoven-fruhling-y-rota-con-el-trio-arion/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-08-03T21:46:41+00:00" />
+<meta property="article:modified_time" content="2015-08-03T21:49:24+00:00" />
+<meta property="og:updated_time" content="2015-08-03T21:49:24+00:00" />

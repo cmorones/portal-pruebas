@@ -1,0 +1,8 @@
+<meta property="og:title" content="Recital Internacional (Austria)" />
+<meta property="og:description" content="Recital Internacional (Austria)Friedrich Kleinhapl, violonchelo; Andreas Woyke, piano Sonata para violonchelo y piano no. 2 y Canciones sin palabras de Mendelssohn, Jalousie de J. Gade,Por una cabeza de Gardel, Oblivion, La muerte del ángel, Adiós Nonino y Libertango de Piazzolla         &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/recital-internacional-austria/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-09-09T20:18:23+00:00" />
+<meta property="article:modified_time" content="2015-09-24T11:58:18+00:00" />
+<meta property="og:updated_time" content="2015-09-24T11:58:18+00:00" />

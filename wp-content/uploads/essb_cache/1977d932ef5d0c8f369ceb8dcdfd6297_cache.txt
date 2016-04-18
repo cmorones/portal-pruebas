@@ -1,0 +1,6 @@
+<meta property="og:title" content="CONCIERTO INTERNACIONAL &#8211; Recital de flauta y piano con Massimo Mercelli y Jozéf Olechowski" />
+<meta property="og:description" content="  Sábado 27 de febrero / 18:00 horas Sala Carlos Chávez La Dirección General de Música de la UNAM organiza un recital con el flautista italiano Massimo Mercelli y el pianista polaco Jozéf Olechowski, se llevará a cabo el 27 de febrero en la Sala Carlos Chávez del Centro Cultural Universitari&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/concierto-internacional-recital-de-flauta-y-piano-con-massimo-mercelli-y-jozef-olechowski-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-02-22T13:10:41+00:00" />

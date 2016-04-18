@@ -1,0 +1,6 @@
+<meta property="og:title" content="Ensamble Clerambault" />
+<meta property="og:description" content="Música de CámaraMúsica de la corte francesa Ensamble Clerambault:Vincent Touzet, flauta traversa barroca; Norma García, clavecín Suite no. 5 de Philidor, Suite para clavecín de Marchand, Suite en re mayor de Le Roux, Piezas de los órdenes 13 y 14 de F. Couperin, Primera suite para flauta sola&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ensamble-clerambault/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-15T23:46:59+00:00" />

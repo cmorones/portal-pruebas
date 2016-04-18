@@ -1,0 +1,6 @@
+<meta property="og:title" content="Recital de piano" />
+<meta property="og:description" content="Jóvenes Talentos Ana G. Fernández de Velasco, piano Toccata op. 7 de Schumann, Sonata en si menor de Liszt, Seis bocetos para piano de H. de Blanck y Toccata no. 1 de C. Garay Sala Carlos Chávez 18:00 horas Entrada libre (cupo limitado al aforo de la sala) Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/recital-de-piano-3/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-08-14T15:50:02+00:00" />

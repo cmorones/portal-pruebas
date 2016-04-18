@@ -1,0 +1,6 @@
+<meta property="og:title" content="OJUEM Concierto 1 de Primavera" />
+<meta property="og:description" content="OJUEM Conciertos de PrimaveraOrquesta Juvenil Universitaria Eduardo Mata de la UNAMConcierto 1 Gustavo Rivero Weber, director artístico; Shari Mason, violín Redes de Revueltas, Concierto para violín no. 1 de Prokofiev y Sinfonía no. 38, Praga de Mozart Sala Nezahualcóyotl 18:00 horas $50 Progra&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ojuem-concierto-1-de-primavera/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-03-11T18:39:08+00:00" />

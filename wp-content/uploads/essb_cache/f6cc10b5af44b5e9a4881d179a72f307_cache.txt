@@ -1,0 +1,8 @@
+<meta property="og:title" content="Programa Coral Universitario &#8211; Presentación de disco" />
+<meta property="og:description" content="&nbsp; Concierto-presentación Sala Miguel Covarrubias El Programa Coral Universitario, coordinado por Ana Patricia Carbajal, realizará la presentación de un disco lleno de música coral, el jueves 07 de mayo a las 19:00 horas en la Sala Miguel Covarrubias del Centro Cultural Universitario.&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/programa-coral-universitario-presentacion-de-disco/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-05-07T13:21:24+00:00" />
+<meta property="article:modified_time" content="2015-05-08T16:39:56+00:00" />
+<meta property="og:updated_time" content="2015-05-08T16:39:56+00:00" />

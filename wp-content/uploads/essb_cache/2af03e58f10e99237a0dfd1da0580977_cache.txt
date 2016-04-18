@@ -1,0 +1,6 @@
+<meta property="og:title" content="OJUEM &#8211; Cuarto Concierto de Otoño con Jan Latham-Koenig y Nikolai Khoziainov" />
+<meta property="og:description" content="  Domingo 29 de noviembre / 18:00 horas Sala Nezahualcóyotl La Orquesta Juvenil Universitaria Eduardo Mata ofrecerá su cuarto Concierto de Otoño bajo la batuta del director huésped Jan Latham-Koenig y el pianista Nikolai Khoziainov, el próximo domingo 29 de noviembre en la Sala Nezahualcóyotl&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/ojuem-cuarto-concierto-de-otono-con-jan-latham-koenig-y-nikolai-khoziainov/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-11-23T10:43:29+00:00" />

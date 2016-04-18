@@ -1,0 +1,6 @@
+<meta property="og:title" content="Quinteto de Jazz Cactus" />
+<meta property="og:description" content="&nbsp; 1 de octubre / 19:00 horas Salón Juárez / Centro Cultural Tlatelolco La Dirección General de Música de la UNAM, dentro del ciclo Jueves de Jazz organiza el recital del Quinteto de Jazz Cactus el próximo 1 de octubre en el Salón Juárez del Centro Cultural Tlatelolco. El repertorio inclu&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/quinteto-de-jazz-cactus/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-05T11:39:24+00:00" />

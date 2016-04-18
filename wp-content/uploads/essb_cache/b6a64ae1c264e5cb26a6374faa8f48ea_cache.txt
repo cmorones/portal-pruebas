@@ -1,0 +1,8 @@
+<meta property="og:title" content="Cuarteto de Piano Aurora" />
+<meta property="og:description" content="Música de CámaraDía Internacional de la Mujer. Compositoras e intérpretes Cuarteto de Piano Aurora:Vera Koulkova, violín; Madalina Nicolescu, viola; Sona Poshotyan, violonchelo; Camelia Goila, piano Cuartetos para cuerdas y piano de Ana Caelen, Lorena Orozco, Andrea Chamizo* y Luise A. Le Beau &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/cuarteto-de-piano-aurora/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-02-15T22:09:49+00:00" />
+<meta property="article:modified_time" content="2016-02-15T22:10:17+00:00" />
+<meta property="og:updated_time" content="2016-02-15T22:10:17+00:00" />

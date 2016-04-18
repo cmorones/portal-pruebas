@@ -1,0 +1,6 @@
+<meta property="og:title" content="OJUEM Concierto 3 de Otoño" />
+<meta property="og:description" content="OJUEM Conciertos de OtoñoOrquesta Juvenil Universitaria Eduardo Mata de la UNAMConcierto 3 Jan Latham-Koenig, director huésped; Ana Gabriela Fernández, piano* Concierto para piano no. 2 de Liszt y Sinfonía no. 1 de Brahms Sala Nezahualcóyotl 18:00 horas   $50 *Ganadora del concurso de solistas&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ojuem-concierto-3-de-otono/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-14T22:37:35+00:00" />

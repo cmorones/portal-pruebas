@@ -1,0 +1,8 @@
+<meta property="og:title" content="Concierto Internacional (Estados Unidos)" />
+<meta property="og:description" content="Concierto Internacional (Estados Unidos) Aizuri Quartet:Miho Saegusa, violín; Zoë Martin-Doike, violín; Ayane Kozasa, viola; Karen Ouzounian, violoncheloInvitado: Roberto Díaz, viola Cuarteto Hob III: 37 de Haydn, Carrot Revolution de G. Smith, Movimiento lento de Webern y Quinteto para cuerdas &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto-internacional-estados-unidos/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-06-02T12:20:53+00:00" />
+<meta property="article:modified_time" content="2015-06-02T12:28:41+00:00" />
+<meta property="og:updated_time" content="2015-06-02T12:28:41+00:00" />

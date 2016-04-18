@@ -1,0 +1,8 @@
+<meta property="og:title" content="Concierto Internacional (Québec, Canadá). Charles Richard-Hamelin, piano" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/mural/concierto-internacional-canada-charles-richard-hamelin-piano/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-03-17T15:35:58+00:00" />
+<meta property="article:modified_time" content="2016-03-18T14:08:50+00:00" />
+<meta property="og:updated_time" content="2016-03-18T14:08:50+00:00" />

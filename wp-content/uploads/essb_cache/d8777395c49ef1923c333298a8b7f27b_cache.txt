@@ -1,0 +1,8 @@
+<meta property="og:title" content="OJUEM La música vive en la Universidad" />
+<meta property="og:description" content="&nbsp; Del 22 de octubre al 3 de noviembre del 2015 La Orquesta Juvenil Universitaria Eduardo Mata bajo la batuta de su director artístico Gustavo Rivero Weber, llevará a cabo una serie de conciertos dentro del ciclo La música vive en la Universidad que comprende del 22 de octubre al 3 de noviemb&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/ojuem-la-musica-vive-en-la-universidad/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-26T11:51:57+00:00" />
+<meta property="article:modified_time" content="2015-10-26T11:52:08+00:00" />
+<meta property="og:updated_time" content="2015-10-26T11:52:08+00:00" />

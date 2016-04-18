@@ -1,0 +1,8 @@
+<meta property="og:title" content="OJUEM Concierto 4 de Otoño" />
+<meta property="og:description" content="OJUEM Conciertos de OtoñoOrquesta Juvenil Universitaria Eduardo Mata de la UNAMConcierto 4 Jan Latham-Koenig, director huésped; Nikolai Khoziainov, piano Andante spianato y Gran polonesa de Chopin, Variaciones sinfónicas de Franck y Sinfonía no. 7 de Beethoven Sala Nezahualcóyotl 18:00 horas �&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ojuem-concierto-4-de-otono/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-15T23:39:52+00:00" />
+<meta property="article:modified_time" content="2015-10-27T12:02:15+00:00" />
+<meta property="og:updated_time" content="2015-10-27T12:02:15+00:00" />

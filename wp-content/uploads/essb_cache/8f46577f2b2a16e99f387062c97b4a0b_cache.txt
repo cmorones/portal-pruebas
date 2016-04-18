@@ -1,0 +1,8 @@
+<meta property="og:title" content="TAQUILLAS" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/taquillas/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-01-26T20:47:10+00:00" />
+<meta property="article:modified_time" content="2016-03-28T11:34:43+00:00" />
+<meta property="og:updated_time" content="2016-03-28T11:34:43+00:00" />

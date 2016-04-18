@@ -1,0 +1,8 @@
+<meta property="og:title" content="Seminario Interdisciplinario de Interpretación" />
+<meta property="og:description" content="ConciertoSeminario Interdisciplinario de InterpretaciónDr. Alejandro EscuerPosgrado en MúsicaFacultad de Música UNAMConcierto multidisciplinario: Música, arte sonoro y danza Gerardo Zárate Terrazas, guitarra; Ricardo Rodarte Ramírez, piano; Sandra Velázquez Cruz, piano; Ma. Clara Lozada Ocamp&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/seminario-interdisciplinario-de-interpretacion-de-la-facultad-de-musica/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-27T19:28:13+00:00" />
+<meta property="article:modified_time" content="2015-11-27T14:22:10+00:00" />
+<meta property="og:updated_time" content="2015-11-27T14:22:10+00:00" />

@@ -1,0 +1,6 @@
+<meta property="og:title" content="CONCIERTO INTERNACIONAL &#8211; Recital de piano con Lukás Vondrácek" />
+<meta property="og:description" content="  Martes 15 de marzo / 20:30 horas Sala Nezahualcóyotl La Dirección General de Música de la UNAM, organiza el Concierto Internacional con el pianista checo Lukás Vondrácek, el próximo martes 15 de marzo en la Sala Nezahualcóyotl del Centro Cultural Universitario. El repertorio incluirá la S&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/concierto-internacional-recital-de-piano-con-lukas-vondracek/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-03-07T17:34:34+00:00" />

@@ -1,0 +1,8 @@
+<meta property="og:title" content="OJUEM Concierto 3 de Primavera" />
+<meta property="og:description" content="OJUEM Conciertos de PrimaveraOrquesta Juvenil Universitaria Eduardo Mata de la UNAM Concierto 3 Gustavo Rivero Weber, director artístico; Roberto Díaz, viola Concierto para viola de Walton y Sinfonía no. 6 Patética de Tchaikovsky Sala Nezahualcóyotl 18:00 horas $50 Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ojuem-concierto-3-de-primavera/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-06-03T17:31:34+00:00" />
+<meta property="article:modified_time" content="2015-06-03T17:56:44+00:00" />
+<meta property="og:updated_time" content="2015-06-03T17:56:44+00:00" />

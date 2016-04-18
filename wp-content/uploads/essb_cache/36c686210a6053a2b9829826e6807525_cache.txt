@@ -1,0 +1,8 @@
+<meta property="og:title" content="Música de cámara &#8211; Concierto homenaje a José Mojica a 40 años de su muerte" />
+<meta property="og:description" content="&nbsp; Sábado 5 de septiembre de 2015 / Sala Carlos Chávez La Dirección General de Música de la UNAM dentro del Ciclo Música de Cámara, presentará el Concierto homenaje a José Mojica a 40 años de su muerte, con Leonardo Villeda como tenor y James Demster al piano. El repertorio incluye Aria&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-de-camara-concierto-homenaje-a-jose-mojica-a-40-anos-de-su-muerte/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-09-04T14:51:00+00:00" />
+<meta property="article:modified_time" content="2015-09-04T14:52:50+00:00" />
+<meta property="og:updated_time" content="2015-09-04T14:52:50+00:00" />

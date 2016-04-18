@@ -1,0 +1,6 @@
+<meta property="og:title" content="Recital de voz y piano" />
+<meta property="og:description" content="Música de Cámara María José Rodríguez, soprano; Sergio Vázquez, piano Lieder y canciones de Campa, Arrullo de Talavera-Navarro, Canción de la noche, Incolor, Epigrama y Naufragio de Rolón, Canción para niños de Revueltas, Tres poemas de González Durán de Jiménez Mabarak, Arrullo de Gali&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/recital-de-voz-y-piano-4/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-09-21T22:36:17+00:00" />

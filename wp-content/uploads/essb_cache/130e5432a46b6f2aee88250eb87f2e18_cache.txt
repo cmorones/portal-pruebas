@@ -1,0 +1,8 @@
+<meta property="og:title" content="Sinfonía en re menor de Franck con la OJUEM" />
+<meta property="og:description" content="&nbsp; Domingo 21 de junio de 2015 / Sala Nezahualcóyotl Bajo la batuta del director huésped Jan Latham-Koenig, la Orquesta Juvenil Universitaria Eduardo Mata de la UNAM interpretará la Sinfonía en re menor de Franck. La invitación es para el domingo 21 de junio a las 18:00 horas, en la Sala Ne&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/sinfonia-en-re-menor-de-franck-con-la-ojuem/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-06-16T14:40:15+00:00" />
+<meta property="article:modified_time" content="2015-06-16T16:28:40+00:00" />
+<meta property="og:updated_time" content="2015-06-16T16:28:40+00:00" />

@@ -1,0 +1,6 @@
+<meta property="og:title" content="OJUEM &#8211; CONCIERTOS DE INVIERNO" />
+<meta property="og:description" content="  Domingo 17 de enero / 17:00 horas Sala Nezahualcóyotl La Orquesta Juvenil Universitaria Eduardo Mata de la UNAM iniciará los Conciertos de Invierno bajo la batuta del director huésped Lanfranco Marcelletti y la participación solista de Silvestre Hernández. El programa contará entre su reper&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/ojuem-conciertos-de-invierno/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-01-11T13:45:06+00:00" />

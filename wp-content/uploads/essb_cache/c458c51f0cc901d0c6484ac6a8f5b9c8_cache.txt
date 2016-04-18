@@ -1,0 +1,6 @@
+<meta property="og:title" content="OFUNAM Tercera Temporada 2015" />
+<meta property="og:description" content="&nbsp; Del 5 de septiembre al 13 diciembre, 2015 | Sala Nezahualcóyotl Sábados 20:00 horas | Domingos 12:00 horas La Orquesta Filarmónica de la UNAM comenzará su Tercera Temporada 2015 el próximo sábado 5 de septiembre y concluirá el domingo 13 de diciembre en la Sala Nezahualcóyotl del Cent&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/ofunam-tercera-temporada-2015/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-09-02T13:22:14+00:00" />

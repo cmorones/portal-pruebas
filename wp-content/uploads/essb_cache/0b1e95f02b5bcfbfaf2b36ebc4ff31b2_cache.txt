@@ -1,0 +1,8 @@
+<meta property="og:title" content="Música Antigua &#8211; Tríos de la Chambre" />
+<meta property="og:description" content="&nbsp; Domingo 09 de agosto de 2015 / Anfiteatro Simón Bolívar  La Dirección General de Música de la UNAM presentará Música Antigua con el conjunto Tríos de la Chambre, que interpretará Sonata en trío de Boismortier, Suite en trío de Dornel, Sonata en trío de Telemann, Sonata en trío de&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-antigua-trios-de-la-chambre/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-08-03T21:40:37+00:00" />
+<meta property="article:modified_time" content="2015-08-03T21:52:47+00:00" />
+<meta property="og:updated_time" content="2015-08-03T21:52:47+00:00" />

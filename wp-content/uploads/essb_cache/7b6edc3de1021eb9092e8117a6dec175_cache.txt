@@ -1,0 +1,6 @@
+<meta property="og:title" content="Octeto de Violonchelos Eduardo Mata" />
+<meta property="og:description" content="Jóvenes Talentos Octeto de Violonchelos Eduardo Mata:Beverly Brown, Gustavo Cruz, Mireya Hurtado, Rodolfo Jiménez, Leonardo Mendoza, Laura Salgado, Xiuhnel Valdivia y Luis Zárate, violonchelos Adagio de Barber, Fuga y misterio de Piazzolla, Bachianas brasileiras no. 1 de Villa-Lobos Sala Carlos C&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/octeto-de-violonchelos-eduardo-mata/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-03-11T18:29:42+00:00" />

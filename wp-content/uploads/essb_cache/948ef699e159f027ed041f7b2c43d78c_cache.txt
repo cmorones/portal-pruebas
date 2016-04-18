@@ -1,0 +1,6 @@
+<meta property="og:title" content="Recital de violín y piano" />
+<meta property="og:description" content="Música de Cámara Carlos Arias, violín; Carlos A. Salmerón, piano Sonata para violín y piano no. 1 de Brahms, Danza macabra de Saint-Saëns, Romanza para violín y piano de Dvorák y Fratres de Pärt Sala Carlos Chávez 18:00 horas $130 Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/recital-de-violin-y-piano-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-15T23:43:06+00:00" />

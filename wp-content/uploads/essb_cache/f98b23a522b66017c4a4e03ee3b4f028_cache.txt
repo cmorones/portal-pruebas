@@ -1,0 +1,6 @@
+<meta property="og:title" content="La OFUNAM y Lukás Vondrácek" />
+<meta property="og:description" content="&nbsp; Sala Nezahualcóyotl / 12 y 13 de marzo Ensayo abierto 12 de marzo / 10:00 horas La Orquesta Filarmónica de la UNAM llevará a cabo el séptimo concierto de la Primera Temporada 2016 bajo la batuta del director huésped Bojan Sudjic y la participación solista de Lukás Vondrácek en el pian&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/la-ofunam-y-lukas-vondracek/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-03-07T17:41:43+00:00" />

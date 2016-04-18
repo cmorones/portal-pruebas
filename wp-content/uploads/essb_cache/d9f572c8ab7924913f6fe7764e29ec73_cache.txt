@@ -1,0 +1,8 @@
+<meta property="og:title" content="MÚSICA DE CÁMARA &#8211; Recital de piano con Alberto Cruzprieto" />
+<meta property="og:description" content="  27 de septiembre / 12:00 horas Anfiteatro Simón Bolívar La Dirección General de Música de la UNAM dentro del ciclo permanente de Música de Cámara, organiza el recital de piano con Alberto Cruzprieto el próximo domingo 27 de septiembre en el Anfiteatro Simón Bolívar; con un repertorio que&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-de-camara-recital-de-piano-con-alberto-cruzprieto/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-09-21T12:10:18+00:00" />
+<meta property="article:modified_time" content="2015-09-21T12:17:38+00:00" />
+<meta property="og:updated_time" content="2015-09-21T12:17:38+00:00" />

@@ -1,0 +1,8 @@
+<meta property="og:title" content="Música de Cámara &#8211; Cuarteto Redes" />
+<meta property="og:description" content="Música de Cámara Cuarteto Redes:Ekaterine Martínez, violín; Carlos Gándara, violín; Érika Ramírez, viola; Carlos Castañeda, violoncheloInvitada: Nadia Guenet, flauta y piccolo Impresiones de la puna de Ginastera, Conversaciones para cuarteto de cuerdas de J. Córdoba, Quinteto para piccolo &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/musica-de-camara-cuarteto-redes/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-06-04T20:08:27+00:00" />
+<meta property="article:modified_time" content="2015-06-12T18:50:18+00:00" />
+<meta property="og:updated_time" content="2015-06-12T18:50:18+00:00" />

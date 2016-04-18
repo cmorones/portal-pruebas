@@ -1,0 +1,8 @@
+<meta property="og:title" content="Recital de voz y guitarra" />
+<meta property="og:description" content="&nbsp; Domingo 6 de septiembre de 2015 Sala Carlos Chávez Dentro del Ciclo de Música de Cámara, organizado por la Dirección General de Música se llevará a cabo un recital de voz y guitarra a cargo de la mezzosoprano Mónica Soto-Gil y el guitarrista Roberto Limón, el próximo domingo 6 de sep&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/recital-de-voz-y-guitarra/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-09-04T14:09:14+00:00" />
+<meta property="article:modified_time" content="2015-09-04T14:35:09+00:00" />
+<meta property="og:updated_time" content="2015-09-04T14:35:09+00:00" />

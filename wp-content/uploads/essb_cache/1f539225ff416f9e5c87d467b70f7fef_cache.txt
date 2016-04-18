@@ -1,0 +1,6 @@
+<meta property="og:title" content="OFUNAM &#8211; Gira Universitaria" />
+<meta property="og:description" content="&nbsp; Del 1 al 4 de marzo / 10:00 horas Facultades y FES de la UNAM La Orquesta Filarmónica de la UNAM llevará a cabo la primera Gira Universitaria del 2016 bajo la batuta del director huésped Iván López Reynoso y la participación solista de Jonathan Cano en el violín. Los conciertos compren&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/ofunam-gira-universitaria/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-02-29T11:03:33+00:00" />

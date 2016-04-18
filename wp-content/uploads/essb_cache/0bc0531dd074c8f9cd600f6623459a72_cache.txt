@@ -1,0 +1,8 @@
+<meta property="og:title" content="Proyecto Música para Todos" />
+<meta property="og:description" content="Temporada de Otoño Jardín BotánicoAl naturalProyecto Música para Todos: Rosaura Grados Chavarría, directora musical; Alejandro Vite Hernández, arreglos musicales Fusión de música del mundo con percusiones africanas y americanas Plazoleta 12:00 horas Entrada libre Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/proyecto-musica-para-todos/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-09-23T13:55:51+00:00" />
+<meta property="article:modified_time" content="2015-09-23T13:57:15+00:00" />
+<meta property="og:updated_time" content="2015-09-23T13:57:15+00:00" />

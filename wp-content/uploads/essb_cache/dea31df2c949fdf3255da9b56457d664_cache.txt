@@ -1,0 +1,6 @@
+<meta property="og:title" content="Martin Lebel y Jorge Luis Prats con la OFUNAM" />
+<meta property="og:description" content="  Sala Nezahualcóyotl / 30 y 31 de enero La Orquesta Filarmónica de la UNAM llevará a cabo su tercer programa de la Primera Temporada 2016 bajo la batuta de Martin Lebel y la participación del pianista Jorge Luis Prats, estará compuesto por el Concierto para piano no. 2 de Rachmaninov y la Dan&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/martin-lebel-y-jorge-luis-prats-con-la-ofunam/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-01-25T11:32:23+00:00" />

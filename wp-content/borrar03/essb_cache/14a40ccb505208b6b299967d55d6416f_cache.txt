@@ -1,0 +1,8 @@
+<meta property="og:title" content="Taquillas: Sala Nezahualcóyotl" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/taquillas/sala-nezahualcoyotl/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-01-28T16:02:47+00:00" />
+<meta property="article:modified_time" content="2015-06-15T23:34:52+00:00" />
+<meta property="og:updated_time" content="2015-06-15T23:34:52+00:00" />

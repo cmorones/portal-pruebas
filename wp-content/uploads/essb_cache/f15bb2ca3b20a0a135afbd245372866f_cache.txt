@@ -1,0 +1,6 @@
+<meta property="og:title" content="Concierto de piano, oboe y clarinete" />
+<meta property="og:description" content="Jóvenes Talentos Ollintzin Hernández Quintanar, piano; Vladimir A. Escala Sandoval, oboe; Édgar Lany Flores Martínez, clarinete Primera rapsodia para clarinete y piano de Debussy, Sonata para oboe y piano y Sonata para clarinete y piano de Poulenc y Fantasía pastoral de Bozza Sala Carlos Cháve&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto-de-piano-oboe-y-clarinete/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-09-18T20:42:14+00:00" />

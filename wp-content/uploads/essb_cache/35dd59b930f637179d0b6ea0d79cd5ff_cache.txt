@@ -1,0 +1,8 @@
+<meta property="og:title" content="La OJUEM se va de gira a Italia. Primicia del programa en la Sala Nezahualcóyotl" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/mural/la-ojuem-se-va-de-gira-a-italia-primicia-del-programa-en-la-sala-nezahualcoyotl/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-09-01T13:37:49+00:00" />
+<meta property="article:modified_time" content="2015-09-03T12:10:51+00:00" />
+<meta property="og:updated_time" content="2015-09-03T12:10:51+00:00" />

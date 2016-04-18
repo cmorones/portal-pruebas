@@ -1,0 +1,6 @@
+<meta property="og:title" content="PROGRAMA NAVIDEÑO DE LA OFUNAM" />
+<meta property="og:description" content="  Viernes 11 y domingo 13 de diciembre Sala Nezahualcóyotl En el último concierto de la temporada, la Orquesta Filarmónica de la UNAM llevará a cabo el tradicional Programa Navideño bajo la batuta del director huésped Dmitry Liss, contará con la participación de Luis Miguel Lombana como nar&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/programa-navideno-de-la-ofunam/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-12-07T10:37:47+00:00" />

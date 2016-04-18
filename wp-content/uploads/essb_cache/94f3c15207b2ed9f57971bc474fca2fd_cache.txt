@@ -1,0 +1,8 @@
+<meta property="og:title" content="Recital internacional de piano (Canadá)" />
+<meta property="og:description" content="Concierto Internacional (Québec, Canadá) Charles Richard-Hamelin, piano*Rondos op. 51 de Beethoven, Suite no. 2 Campanas sonoras de Enescu, Nocturno op. 55 no. 2, Cuatro mazurcas op. 33 y Sonata no. 3 de Chopin Sala Nezahualcóyotl 20:30 horas $150 * Ganador de la Medalla de Plata del Concurso Ch&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/recital-internacional-de-piano-canada/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-03-11T17:53:05+00:00" />
+<meta property="article:modified_time" content="2016-03-18T12:37:06+00:00" />
+<meta property="og:updated_time" content="2016-03-18T12:37:06+00:00" />

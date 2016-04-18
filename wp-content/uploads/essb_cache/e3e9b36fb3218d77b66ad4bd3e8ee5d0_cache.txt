@@ -1,0 +1,8 @@
+<meta property="og:title" content="Grupo de Cris Lobo" />
+<meta property="og:description" content="Jazz, Tangos y Ritmos Latinoamericanos Grupo de Cris Lobo:Cris Lobo, guitarra; Kin López, guitarra; Erick Alfaro, contrabajo; Mario García, batería; Paloma Ruiz, voz Take five de Desmond, Wave de Jobin y temas de Cristóbal López Anfiteatro Simón Bolívar 12:00 horas $50 Programa sujeto a cambi&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/grupo-de-cris-lobo/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-08-13T11:08:07+00:00" />
+<meta property="article:modified_time" content="2015-08-13T11:09:04+00:00" />
+<meta property="og:updated_time" content="2015-08-13T11:09:04+00:00" />

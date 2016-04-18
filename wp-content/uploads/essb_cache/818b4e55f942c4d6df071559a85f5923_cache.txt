@@ -1,0 +1,9 @@
+<meta property="og:title" content="Sala Nezahualcóyotl, la casa de la OFUNAM" />
+<meta property="og:description" content="Entre las muchas contribuciones de Eduardo Mata a la vida cultural de México, probablemente la que más perdure en el tiempo sea la Sala Nezahualcóyotl. Por supuesto, se trata de una obra monumental en la que confluyeron muchas voluntades y talentos, pero fue gracias al impulso de Mata que la Fila&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/blog-musica/cas-de-la-ofunam/" />
+<meta property="og:image" content="http://musica.unam.mx/wp-content/uploads/2015/01/OFUNAM-Mexicano620.jpg" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2011-01-10T03:01:04+00:00" />
+<meta property="article:modified_time" content="2015-09-08T19:52:55+00:00" />
+<meta property="og:updated_time" content="2015-09-08T19:52:55+00:00" />

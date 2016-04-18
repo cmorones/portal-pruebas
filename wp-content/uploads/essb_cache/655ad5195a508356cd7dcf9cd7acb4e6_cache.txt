@@ -1,0 +1,6 @@
+<meta property="og:title" content="OFUNAM &#8211; Séptimo concierto con Jan Latham-Koenig, Horacio Franco y Natalie Karl" />
+<meta property="og:description" content="&nbsp; 14 y 15 de noviembre Sala Nezahualcóyotl La Orquesta Filarmónica de la UNAM llevará a cabo el séptimo programa de la temporada bajo la batuta de su director artístico Jan Latham-Koenig, el flautista Horacio Franco y la soprano Natalie Karl, el próximo sábado 14 y domingo 15 de noviembr&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/ofunam-septimo-concierto-con-jan-latham-koenig-horacio-franco-y-natalie-karl/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-11-09T10:34:37+00:00" />

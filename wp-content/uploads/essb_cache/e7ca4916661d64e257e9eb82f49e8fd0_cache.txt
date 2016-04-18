@@ -1,0 +1,6 @@
+<meta property="og:title" content="CONCIERTO &#8211; Homenaje a Francis Poulenc" />
+<meta property="og:description" content="&nbsp; Domingo 13 de marzo / 12:00 horas Anfiteatro Simón Bolívar La Dirección de Música de la UNAM en colaboración con el Festival del Centro Histórico de la Ciudad de México organiza el concierto Homenaje a Francis Poulenc: Música francesa para barítono y ensamble de cámara, el próximo &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/concierto-homenaje-a-francis-poulenc/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-03-07T17:14:46+00:00" />

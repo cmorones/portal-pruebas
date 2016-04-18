@@ -1,0 +1,8 @@
+<meta property="og:title" content="Coros Universitarios" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/mas/coros-universitarios/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-01-28T16:36:40+00:00" />
+<meta property="article:modified_time" content="2015-06-16T17:58:23+00:00" />
+<meta property="og:updated_time" content="2015-06-16T17:58:23+00:00" />

@@ -1,0 +1,8 @@
+<meta property="og:title" content="OJUEM Concierto 1 de Primavera" />
+<meta property="og:description" content="OJUEM Concierto 1 de PrimaveraOrquesta Juvenil Universitaria Eduardo Mata de la UNAMConcierto 1 Jan Latham Koenig, director huésped; Guadalupe Paz, mezzosoprano; Luis Miguel Lombana, narrador Danza macabra de Saint-Saëns, La captive de Berlioz, Siete canciones populares españolas de Falla y selec&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ojuem-concierto-1-19abril2015/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-04-05T22:41:34+00:00" />
+<meta property="article:modified_time" content="2015-04-07T16:30:21+00:00" />
+<meta property="og:updated_time" content="2015-04-07T16:30:21+00:00" />

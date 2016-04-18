@@ -1,0 +1,8 @@
+<meta property="og:title" content="OJUEM Concierto 2 de Invierno" />
+<meta property="og:description" content="OJUEM Conciertos de InviernoOrquesta Juvenil Universitaria Eduardo Mata de la UNAMConcierto 2 Gustavo Rivero Weber, director artístico; Wonmi Kim, piano Obertura de La clemenza di Tito y Concierto para piano no. 21 de Mozart, Suite no. 2 de La arlesiana de Bizet y Los preludios de Liszt Sala Nezahu&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ojuem-concierto-2-de-invierno/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-12-22T23:24:54+00:00" />
+<meta property="article:modified_time" content="2016-01-22T21:56:23+00:00" />
+<meta property="og:updated_time" content="2016-01-22T21:56:23+00:00" />

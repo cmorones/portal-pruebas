@@ -1,0 +1,8 @@
+<meta property="og:title" content="La OFUNAM estrena mundialmente obra de Jorge Torres Sáenz" />
+<meta property="og:description" content="Sala Nezahualcóyotl / 13 y 14 de febrero La Orquesta Filarmónica de la UNAM llevará a cabo su cuarto concierto de la Primera Temporada 2016 bajo la batuta del director huésped Hansjörg Schellenberger, el próximo 13 y 14 de febrero en la Sala Nezahualcóyotl del Centro Cultural Universitario. E&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/la-ofunam-estrena-mundialmente-obra-de-jorge-torres-saenz/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-02-08T12:43:26+00:00" />
+<meta property="article:modified_time" content="2016-02-08T12:53:44+00:00" />
+<meta property="og:updated_time" content="2016-02-08T12:53:44+00:00" />

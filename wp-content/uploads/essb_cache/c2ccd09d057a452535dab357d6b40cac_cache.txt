@@ -1,0 +1,6 @@
+<meta property="og:title" content="Presencia de la Facultad de Música" />
+<meta property="og:description" content="Presencia de la Facultad de Música Ensamble Azul:Diego Sánchez Villa y Julio A. Sánchez Valenzuela, piano a cuatro manos Tres preludios monocromáticos y Toccata de Ibarra, Estudio número uno: Azul de D. Sánchez Villa, Tres piezas de L. Velázquez y Metanoia* de C. Garay Rodrigo Y. Urrutia Cama&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/presencia-de-la-facultad-de-musica-4/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-14T17:58:37+00:00" />

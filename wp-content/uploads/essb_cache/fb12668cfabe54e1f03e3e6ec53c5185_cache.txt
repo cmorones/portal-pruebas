@@ -1,0 +1,6 @@
+<meta property="og:title" content="OJUEM &#8211; Tercer Concierto de Otoño con Jan Latham-Koenig y Ana G. Fernández" />
+<meta property="og:description" content="  Domingo 15 de noviembre / 18:00 horas Sala Nezahualcóyotl La Orquesta Juvenil Universitaria Eduardo Mata ofrecerá el tercer concierto de la Temporada de Otoño bajo la batuta del director huésped Jan Latham-Koenig y la pianista Ana Gabriela Fernández; el próximo domingo 15 de noviembre en la&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/ojuem-tercer-concierto-de-otono-con-jan-latham-koenig-y-ana-g-fernandez/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-11-09T10:23:05+00:00" />

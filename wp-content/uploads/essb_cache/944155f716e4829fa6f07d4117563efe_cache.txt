@@ -1,0 +1,8 @@
+<meta property="og:title" content="OFUNAM Primera Temporada &#8211; Ensayo abierto" />
+<meta property="og:description" content="OFUNAM Primera TemporadaEnsayo abierto Selecciones del Programa 7 Sala Nezahualcóyotl 10:00 horas Entrada libre (cupo limitado al aforo de la sala) Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ofunam-primera-temporada-ensayo-abierto-3/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-11-30T23:58:05+00:00" />
+<meta property="article:modified_time" content="2016-01-11T21:40:32+00:00" />
+<meta property="og:updated_time" content="2016-01-11T21:40:32+00:00" />

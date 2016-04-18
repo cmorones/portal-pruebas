@@ -1,0 +1,6 @@
+<meta property="og:title" content="Presencia de la Facultad de Música" />
+<meta property="og:description" content="Presencia de la Facultad de Música José Á. Pita Juárez, guitarra; Dhyana Arom, soprano Canciones españolas antiguas de F. García Lorca y Por siempre Sabines de Julio C. Oliva Esteban Palafox, guitarra Preludio de Ponce, Tres piezas de J. Ritter, Tres piezas de Brouwer, Cuatro preludios negros &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/presencia-de-la-facultad-de-musica-5/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-14T22:33:54+00:00" />

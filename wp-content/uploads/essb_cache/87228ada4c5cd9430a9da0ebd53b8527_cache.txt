@@ -1,0 +1,8 @@
+<meta property="og:title" content="OFUNAM Quinto concierto de la temporada con obras de Dvořák y Beethoven" />
+<meta property="og:description" content="&nbsp; 17 y 18 de octubre Sala Nezahualcóyotl La Orquesta Filarmónica de la UNAM en el marco de la Tercera Temporada 2015, llevará a cabo su quinto concierto bajo la batuta del director huésped Enrique Arturo Diemecke y la presentación solista de Ildefonso Cedillo en el violonchelo, el próximo&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/recital-internacional-friedrich-kleinhapl-y-andreas-woyke/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-12T12:05:58+00:00" />
+<meta property="article:modified_time" content="2015-10-12T12:11:23+00:00" />
+<meta property="og:updated_time" content="2015-10-12T12:11:23+00:00" />

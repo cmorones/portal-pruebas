@@ -1,0 +1,6 @@
+<meta property="og:title" content="MÚSICA DE CÁMARA &#8211; Recital de canto" />
+<meta property="og:description" content="&nbsp; Domingo 08 de noviembre / 12:00 horas Anfiteatro Simón Bolívar La Dirección de Música de la UNAM organiza el Recital de canto con la soprano Yvonne Garza, el tenor Rodolfo Acosta y el pianista acompañante Ernesto Aboites, el próximo domingo 8 de noviembre en el Anfiteatro Simón Bolíva&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-de-camara-recital-de-canto/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-11-03T10:30:00+00:00" />

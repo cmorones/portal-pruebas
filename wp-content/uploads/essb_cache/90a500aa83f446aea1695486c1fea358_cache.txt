@@ -1,0 +1,8 @@
+<meta property="og:title" content="Música de Cámara &#8211; Duplum Dúo" />
+<meta property="og:description" content="Música de CámaraMujeres compositoras del siglo XX Duplum Dúo:Fernando Domínguez, clarinete; Iván Manzanilla, percusiones Estreno mundial de Ese tiempo que gira de Graciela Agudelo, Dreiundzwanzig vokale für Christoph de A. Schmucki, Entre la bruma va de Ana Lara, Qué alta va la Luna (Lucía) &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/musica-de-camara-duplum-duo/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-06-25T00:57:03+00:00" />
+<meta property="article:modified_time" content="2015-06-25T01:13:56+00:00" />
+<meta property="og:updated_time" content="2015-06-25T01:13:56+00:00" />

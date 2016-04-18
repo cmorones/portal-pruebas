@@ -1,0 +1,8 @@
+<meta property="og:title" content="CONCIERTO Presencia de la Facultad de Música de la UNAM" />
+<meta property="og:description" content="&nbsp; 23 de octubre y 25 de octubre Sala Nezahualcóyotl La Dirección General de Música de la UNAM organiza el concierto con presencia de la Orquesta Sinfónica Estanislao Mejía de la UNAM y cinco coros universitarios. El director huésped será David Eduardo Rocha, contará con la participació&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/concierto-presencia-de-la-facultad-de-musica-de-la-unam/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-19T10:29:19+00:00" />
+<meta property="article:modified_time" content="2015-10-19T10:29:36+00:00" />
+<meta property="og:updated_time" content="2015-10-19T10:29:36+00:00" />

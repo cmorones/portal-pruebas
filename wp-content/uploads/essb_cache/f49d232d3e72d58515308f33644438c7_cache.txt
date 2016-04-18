@@ -1,0 +1,8 @@
+<meta property="og:title" content="Música Antigua &#8211; La Fontegara" />
+<meta property="og:description" content="Música AntiguaPájaros sonoros. Las aves en la música barroca europea La Fontegara:María Diez-Canedo, flauta de pico y traversa barroca; Eunice Padilla, clavecín; Rafael Sánchez, viola da gamba; Eloy Cruz, guitarra barroca y tiorba Obras de Purcell, Rameau, F. Couperin, Schmelzer y otros compos&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/musica-antigua-la-fontegara/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-08-12T19:20:20+00:00" />
+<meta property="article:modified_time" content="2015-08-28T18:31:35+00:00" />
+<meta property="og:updated_time" content="2015-08-28T18:31:35+00:00" />

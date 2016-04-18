@@ -1,0 +1,8 @@
+<meta property="og:title" content="OFUNAM Tercera Temporada 2015. Cartelera." />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/mural/ofunam-tercera-temporada-2015-cartelera/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-07-29T16:53:15+00:00" />
+<meta property="article:modified_time" content="2015-07-29T17:14:57+00:00" />
+<meta property="og:updated_time" content="2015-07-29T17:14:57+00:00" />

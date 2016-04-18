@@ -1,0 +1,6 @@
+<meta property="og:title" content="Ensamble Baquetofonía" />
+<meta property="og:description" content="Temporada de Otoño Jardín Botánico Ensamble Baquetofonía:Javier Pérez Casasola, Max Joe Carreón, Everardo Pérez Casasola, Javier Sánchez Zamora y Alejandro Morales, percusiones Sones chiapanecos, música de las películas Harry Potter y Piratas de Caribe y obras de Khachaturian, Gershwin, M.&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ensamble-baquetofonia/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-09-23T13:47:30+00:00" />

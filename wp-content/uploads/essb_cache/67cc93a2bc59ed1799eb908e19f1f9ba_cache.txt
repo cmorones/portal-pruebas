@@ -1,0 +1,8 @@
+<meta property="og:title" content="Alumnos de Farizat Tchibirova de la Orquesta Escuela Carlos Chávez" />
+<meta property="og:description" content="  Recital domingo 16 de agosto de 2015 Entrada libre La Dirección General de Música de la UNAM presentará, dentro del ciclo permanente de Jóvenes Talentos, el recital de los alumnos de Farizat Tchibirova de la Orquesta Escuela Carlos Chávez: los pianistas Luis Castro, Bernardo Lorentzen y Quet&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/alumnos-de-farizat-tchibirova-de-la-orquesta-escuela-carlos-chavez/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-08-10T15:35:42+00:00" />
+<meta property="article:modified_time" content="2015-08-10T15:49:09+00:00" />
+<meta property="og:updated_time" content="2015-08-10T15:49:09+00:00" />

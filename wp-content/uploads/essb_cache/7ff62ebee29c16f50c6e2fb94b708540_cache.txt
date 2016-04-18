@@ -1,0 +1,8 @@
+<meta property="og:title" content="Recital de canto" />
+<meta property="og:description" content="Música de Cámara Denisse de Ramery, soprano; Isaac Saúl, piano Wesendonck-Lieder de Wagner, Claro de luna, Beau soir y Trois chansons de Bilitis de Debussy, El caballito, Canción tonta y Canción de cuna de Revueltas, Milonga de dos hermanos de Guastavino y Triste y Zamba de Ginastera, entre otr&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/recital-de-canto-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-02-26T12:21:02+00:00" />
+<meta property="article:modified_time" content="2016-02-26T12:21:40+00:00" />
+<meta property="og:updated_time" content="2016-02-26T12:21:40+00:00" />

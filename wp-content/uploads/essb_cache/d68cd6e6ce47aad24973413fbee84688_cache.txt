@@ -1,0 +1,6 @@
+<meta property="og:title" content="Concierto Internacional (República Checa)" />
+<meta property="og:description" content="Concierto Internacional (República Checa) Lukás Vondrácek, piano Sonata no. 10 de Mozart, Sonata no. 7 de Prokofiev, Canción de amor de Suk, Memorias de V. Novák y Cuatro danzas checas de Smetana Sala Nezahualcóyotl 20:30 horas $150 Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto-internacional-republica-checa/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-02-15T22:04:49+00:00" />

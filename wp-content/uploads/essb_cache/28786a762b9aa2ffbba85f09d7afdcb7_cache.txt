@@ -1,0 +1,6 @@
+<meta property="og:title" content="Cuarteto Arcano" />
+<meta property="og:description" content="Música de Cámara Cuarteto Arcano:Érik Sánchez, violín; Mariana V. González, violín; Felisa Hernández, viola; Luz del Carmen Águila, violonchelo Cuatro miniaturas para cuarteto de cuerdas, Trío para cuerdas, Sonata en dúo para violín y viola y Cuarteto de cuerdas de Ponce Sala Carlos Chá&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/cuarteto-arcano/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-08-14T16:37:09+00:00" />

@@ -1,0 +1,8 @@
+<meta property="og:title" content="Trío Arbós (España)" />
+<meta property="og:description" content="Concierto Internacional (España) Trío Arbós:Juan Carlos Garvayo, piano; Cecilia Bercovich, violín; José Miguel Gómez, violonchelo Trío de J. Torres, Trío no. 3 Romántico de R. Sierra y Trío de Ravel Anfiteatro Simón Bolívar 12:00 horas $50 Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/trio-arbos-espana/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-15T12:31:12+00:00" />
+<meta property="article:modified_time" content="2015-10-15T12:32:14+00:00" />
+<meta property="og:updated_time" content="2015-10-15T12:32:14+00:00" />

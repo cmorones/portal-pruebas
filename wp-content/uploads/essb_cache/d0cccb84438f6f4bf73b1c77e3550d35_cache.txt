@@ -1,0 +1,6 @@
+<meta property="og:title" content="CONCIERTO INTERNACIONAL &#8211; Encuentro Coral 2016: México y Estados Unidos" />
+<meta property="og:description" content="  Miércoles 20 de enero / 18:00 horas Anfiteatro Simón Bolívar / Entrada libre La Dirección de Música de la UNAM organiza el Encuentro Coral 2016 con el Coro Synapse de México y el Coro de la Universidad de Cornell de Estados Unidos, el próximo miércoles 20 de enero en el Anfiteatro Simón &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/concierto-internacional-encuentro-coral-2016-mexico-y-estados-unidos/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-01-18T13:59:23+00:00" />

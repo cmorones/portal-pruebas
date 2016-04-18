@@ -1,0 +1,8 @@
+<meta property="og:title" content="Concierto ¡Viva el tango!" />
+<meta property="og:description" content="&nbsp; Domingo 30 de agosto / Anfiteatro Simón Bolívar Ciclo Jazz, Tangos y Ritmos Latinoamericanos  El concierto ¡Viva el tango! organizado por la Dirección General de Música de la UNAM dentro del ciclo permanente Jazz, Tangos y Ritmos Latinoamericanos, se llevará a cabo el domingo 30 de ago&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/tangos-en-el-anfiteatro-simon-bolivar/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-08-21T11:16:08+00:00" />
+<meta property="article:modified_time" content="2015-08-25T18:42:57+00:00" />
+<meta property="og:updated_time" content="2015-08-25T18:42:57+00:00" />

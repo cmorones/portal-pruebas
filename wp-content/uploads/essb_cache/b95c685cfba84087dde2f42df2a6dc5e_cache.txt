@@ -1,0 +1,6 @@
+<meta property="og:title" content="Encuentro Coral 2016 (México-Estados Unidos)" />
+<meta property="og:description" content="Concierto InternacionalEncuentro Coral 2016 Coro Synapse: Gabriela Franco, directora coralCoro de la Universidad de Cornell: Robert Isaacs, director coral Espiritual negro, música latinoamericana y norteamericana Anfiteatro Simón Bolívar 18:00 horas Entrada libre (cupo limitado al aforo de la sal&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/encuentro-coral-2016-mexico-estados-unidos/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-12-22T23:07:49+00:00" />

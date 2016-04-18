@@ -1,0 +1,6 @@
+<meta property="og:title" content="OFUNAM &#8211; Sexto programa de la temporada con Iván del Prado y Johanes Moser" />
+<meta property="og:description" content="&nbsp; 24 y 25 de octubre Sala Nezahualcóyotl La Orquesta Filarmónica de la UNAM llevará a cabo el sexto concierto de su Tercera Temporada 2015 bajo la batuta del director huésped Iván del Prado y la participación de Johanes Moser en el violonchelo eléctrico, el próximo sábado 24 y domingo &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/ofunam-sexto-programa-de-la-temporada-con-ivan-del-prado-y-johanes-moser/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-19T10:27:34+00:00" />

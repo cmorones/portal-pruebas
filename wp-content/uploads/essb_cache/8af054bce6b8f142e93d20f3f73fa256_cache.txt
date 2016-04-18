@@ -1,0 +1,6 @@
+<meta property="og:title" content="Concierto de Jazz" />
+<meta property="og:description" content="Jazz, Tangos y Ritmos Latinoamericanos Robbin Blanco, guitarras; Sergio Aguilar, bajo; Kike Escalante, batería Temas de R. Blanco y R. Dyens Anfiteatro Simón Bolívar 12:00 horas $50 Programa sujeto a cambios&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/concierto-de-jazz/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-01-20T16:37:26+00:00" />

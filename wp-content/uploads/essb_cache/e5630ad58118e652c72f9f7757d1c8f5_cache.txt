@@ -1,0 +1,8 @@
+<meta property="og:title" content="OJUEM Concierto &#8211; La OJUEM se va de gira a Italia" />
+<meta property="og:description" content="OJUEM Orquesta Juvenil Universitaria Eduardo Mata de la UNAMLa OJUEM se va de gira a ItaliaPrimicia del programa en la Sala Nezahualcóyotl Gustavo Rivero Weber, director artístico Danza ritual del fuego de Falla, Concierto para violín no. 2 de Paganini, Yo soy mexicano y ¡Ay Jalisco no te rajes!&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ojuem-concierto-1-de-verano/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-08-12T11:52:08+00:00" />
+<meta property="article:modified_time" content="2015-09-04T17:16:58+00:00" />
+<meta property="og:updated_time" content="2015-09-04T17:16:58+00:00" />

@@ -1,0 +1,8 @@
+<meta property="og:title" content="Recital de voz y guitarra" />
+<meta property="og:description" content="Música de Cámara Mónica Soto-Gil, mezzosoprano; Roberto Limón, guitarra Siete canciones populares españolas de Falla, Ecos de Huexotzingo de Marco A. Alvírez, dos canciones populares argentinas de Guastavino, Romancero gitano de Theodorakis y tres canciones españolas de Granados Sala Carlos C&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/recital-de-voz-y-piano-2/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-08-13T11:03:23+00:00" />
+<meta property="article:modified_time" content="2015-08-28T18:32:39+00:00" />
+<meta property="og:updated_time" content="2015-08-28T18:32:39+00:00" />

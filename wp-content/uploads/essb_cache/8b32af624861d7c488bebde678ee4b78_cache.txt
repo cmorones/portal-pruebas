@@ -1,0 +1,8 @@
+<meta property="og:title" content="OJUEM &#8211; Concierto Navideño" />
+<meta property="og:description" content="OJUEMOrquesta Juvenil Universitaria Eduardo Mata de la UNAMConcierto Navideño Gustavo Rivero Weber, director artístico; Jeff Smith, trompeta; Iván López Reynoso, contratenor; Coro de la Facultad de Música UNAM: Samuel Pascoe, director coral; Niños y Jóvenes Cantores de la Facultad de Música &hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/ojuem-concierto-navideno/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-27T19:58:38+00:00" />
+<meta property="article:modified_time" content="2015-12-07T18:28:58+00:00" />
+<meta property="og:updated_time" content="2015-12-07T18:28:58+00:00" />

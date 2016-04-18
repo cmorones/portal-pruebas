@@ -1,0 +1,8 @@
+<meta property="og:title" content="Cuarteto Attacca (Estados Unidos)" />
+<meta property="og:description" content="Recital Internacional (Estados Unidos) Cuarteto Attacca:Amy Schroeder, violin; Keiko Tokunaga, violín; Nathan Schran, viola; Andrew Yee, violonchelo Cuarteto para cuerdas op. 74 no. 1 de Haydn, Book of Alleged Dances de J. Adams y Cuarteto para cuerdas no. 14 de Beethoven Sala Nezahualcóyotl 20:30&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/cuarteto-attaca-estados-unidos/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-14T22:27:32+00:00" />
+<meta property="article:modified_time" content="2015-10-29T12:45:51+00:00" />
+<meta property="og:updated_time" content="2015-10-29T12:45:51+00:00" />

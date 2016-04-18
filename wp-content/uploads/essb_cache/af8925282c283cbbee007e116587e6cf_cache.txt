@@ -1,0 +1,6 @@
+<meta property="og:title" content="MÚSICA DE CÁMARA &#8211; Recital de violín y piano con Carlos Arias y Carlos A. Salmerón" />
+<meta property="og:description" content="&nbsp; Domingo 29 de noviembre / 18:00 horas Sala Carlos Chávez La Dirección de Música de la UNAM organiza el recital de violín y piano con Carlos Ricardo Arias y Carlos Adriel Salmerón, el próximo domingo 29 de noviembre en la Sala Carlos Chávez. El repertorio incluirá Sonata para violín y&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/musica-de-camara-recital-de-violin-y-piano-con-carlos-arias-y-carlos-a-salmeron/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-11-23T10:41:05+00:00" />

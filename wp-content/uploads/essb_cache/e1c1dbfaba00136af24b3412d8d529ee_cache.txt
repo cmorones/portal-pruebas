@@ -1,0 +1,6 @@
+<meta property="og:title" content="OJUEM &#8211; Tercer Concierto de Invierno con Ryu Goto" />
+<meta property="og:description" content="  Domingo 21 de febrero / 18:00 horas Sala Nezahualcóyotl La Orquesta Juvenil Universitaria Eduardo Mata de la UNAM llevará a cabo el tercero de sus Conciertos de Invierno bajo la batuta del director huésped Iván López Reynoso y la participación solista de Ryu Goto en el violín. Tendrá luga&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/ojuem-tercer-concierto-de-invierno-con-ryu-goto/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-02-15T12:53:54+00:00" />

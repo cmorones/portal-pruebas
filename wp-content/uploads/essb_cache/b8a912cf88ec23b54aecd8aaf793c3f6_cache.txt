@@ -1,0 +1,6 @@
+<meta property="og:title" content="CONCIERTO &#8211; Yolotli. Coro de Mujeres de los Pueblos Indígenas de México" />
+<meta property="og:description" content="&nbsp; Domingo 20 de marzo / 12:00 horas Anfiteatro Simón Bolívar / Entrada libre La Dirección General de Música de la UNAM en el marco del XX Encuentro Internacional – XVI Iberoamericano de Mujeres en el Arte, organiza el concierto de Yolotli. Coro de Mujeres de los Pueblos Indígenas de Méx&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/concierto-yolotli-coro-de-mujeres-de-los-pueblos-indigenas-de-mexico/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2016-03-14T11:40:56+00:00" />

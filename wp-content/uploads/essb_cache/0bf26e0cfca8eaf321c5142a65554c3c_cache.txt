@@ -1,0 +1,8 @@
+<meta property="og:title" content="El Quinteto Polaco presentará obras de J. Zarebski y Brahms" />
+<meta property="og:description" content="  Domingo 16 de agosto de 2015 / Sala Carlos Chávez El Quinteto Polaco será parte del ciclo de Música de Cámara, organizado por la Dirección General de Música de la UNAM. Interpretarán Quinteto para cuerdas y piano de J. Zarebski y Quinteto para cuerdas y piano de Brahms, el domingo 16 de ag&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/boletin/el-quinteto-polaco-presentara-obras-de-j-zarebski-y-brahms/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-08-10T15:56:07+00:00" />
+<meta property="article:modified_time" content="2015-08-10T16:05:34+00:00" />
+<meta property="og:updated_time" content="2015-08-10T16:05:34+00:00" />

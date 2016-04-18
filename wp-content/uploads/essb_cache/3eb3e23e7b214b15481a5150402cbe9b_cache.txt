@@ -1,0 +1,8 @@
+<meta property="og:title" content="Archivo fotográfico" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/prensa/archivo-fotografico/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-01-28T16:28:49+00:00" />
+<meta property="article:modified_time" content="2015-04-20T18:19:26+00:00" />
+<meta property="og:updated_time" content="2015-04-20T18:19:26+00:00" />

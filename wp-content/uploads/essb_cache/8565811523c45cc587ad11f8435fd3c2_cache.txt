@@ -1,0 +1,6 @@
+<meta property="og:title" content="Presencia de la Facultad de Música" />
+<meta property="og:description" content="Las diversas voces de la voz Teresa Navarro Agraz, soprano Secuencia III de L. Berio, Koral 10 de J. Stadelman, Aria de J. Cage, Selecciones de Recitaciones de G. Aperghis, Códigos obsesos 3.0 de J. David García, Trastorno bipolar de S. Covarrubias y Ascenso a la montaña de J. Gándara Sala Carlo&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/events/presencia-de-la-facultad-de-musica-7/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-10-15T23:32:23+00:00" />

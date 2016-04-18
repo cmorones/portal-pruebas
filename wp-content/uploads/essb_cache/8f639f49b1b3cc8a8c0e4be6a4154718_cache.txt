@@ -1,0 +1,8 @@
+<meta property="og:title" content="Periódico Mural" />
+<meta property="og:description" content="&hellip;" />
+<meta property="og:url" content="http://musica.unam.mx/programacion/periodico-mural-3/" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:published_time" content="2015-04-01T13:10:25+00:00" />
+<meta property="article:modified_time" content="2015-04-04T13:43:47+00:00" />
+<meta property="og:updated_time" content="2015-04-04T13:43:47+00:00" />
