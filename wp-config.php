@@ -1,6 +1,6 @@
 <?php
-/**
- * The base configurations of the WordPress.
+/**Servidor de pRUEBA
+  * The base configurations of the WordPress.
  *
  * This file has the following configurations: MySQL settings, Table Prefix,
  * Secret Keys, WordPress Language, and ABSPATH. You can find more information
