@@ -1,0 +1,8 @@
+<meta property="og:title" content="Novedades" />
+<meta property="og:description" content="Nulla porttitor accumsan tincidunt. Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt &hellip;" />
+<meta property="og:url" content="http://prueba.musica.unam.mx/novedades/" />
+<meta property="og:image" content="http://prueba.musica.unam.mx/wp-content/uploads/2015/01/novedad.jpg" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Musica UNAM" />
+<meta property="article:section" content="Novedades" />
+<meta property="article:published_time" content="2015-01-29T09:44:08+00:00" />
